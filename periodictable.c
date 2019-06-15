@@ -30,7 +30,7 @@ void quit() {
 	printf("\033[31mARE YOU SURE YOU WANT TO QUIT?\033[0m");
 	scanf("%s",ans);
 	if (tolower(ans[0])=='y'){
-		printf("\033[35mTHANK YOU\033[0m\n");
+		printf("\n\n\n\n\033[35mTHANK YOU\033[0m\n\n");
 	} else {
 		main();
 	}
