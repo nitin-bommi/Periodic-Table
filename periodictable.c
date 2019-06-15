@@ -147,15 +147,6 @@ int main() {
 	printf("\033[32mYOUR CHOICE : \033[0m");
 	scanf("%d",&choice1);
 	table();
-	// strcpy(atom[0].name,"HYDROGEN");
-	// strcpy(atom[0].symbol,"H");
-	// atom[0].atomicnum=1;
-	// atom[0].atomicwt=1.008;
-	// strcpy(atom[1].name,"HELIUM");
-	// strcpy(atom[1].symbol,"He");
-	// atom[1].atomicnum=2;
-	// atom[1].atomicwt=4.00;
-
 	if (choice1==1){
 		search();
 	} else if (choice1==2){
