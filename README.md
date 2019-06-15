@@ -4,6 +4,8 @@ Applying __C__ conpect and creating a *Periodic-Table*.
 
 The __Periodc-Table__ is a tabular display of the chemical elements, which are arranged by atomic number, electron configuration, and recurring chemical properties.
 
+The first 109 elements in the Periodic-Table are available here.
+
 The code is run on __Terminal__.
 
 To clear the screen,
