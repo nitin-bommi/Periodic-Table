@@ -1,6 +1,6 @@
 # PeriodicTable
 
-Applying __C__ conpect and creating a *Periodic-Table*.
+Applying __C__ concept and creating a *Periodic-Table*.
 
 The __Periodc-Table__ is a tabular display of the chemical elements, which are arranged by atomic number, electron configuration, and recurring chemical properties.
 
